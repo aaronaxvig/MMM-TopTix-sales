@@ -1,0 +1,19 @@
+{
+  "name": "mmm-TopTix-sales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronaxvig/MMM-TopTix-sales.git"
+  },
+  "author": "Aaron Axvig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronaxvig/MMM-TopTix-sales/issues"
+  },
+  "homepage": "https://github.com/aaronaxvig/MMM-TopTix-sales#readme"
+}
